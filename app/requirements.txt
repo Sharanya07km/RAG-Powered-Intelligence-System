@@ -1,4 +1,0 @@
-fastapi
-uvicorn
-faiss-cpu  # If you are using CPU; use `faiss-gpu` if running on GPU
-numpy
